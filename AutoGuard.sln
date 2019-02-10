@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGuard", "AutoGuard\AutoGuard.csproj", "{D26DB332-0B7F-4DA9-92C5-3F3EC256C89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26DB332-0B7F-4DA9-92C5-3F3EC256C89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26DB332-0B7F-4DA9-92C5-3F3EC256C89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26DB332-0B7F-4DA9-92C5-3F3EC256C89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26DB332-0B7F-4DA9-92C5-3F3EC256C89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9FFEFC-8A61-4799-BB1C-150572DB7ABB}
+	EndGlobalSection
+EndGlobal
